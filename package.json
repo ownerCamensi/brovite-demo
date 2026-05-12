@@ -1,0 +1,10 @@
+{
+  "name": "brovite-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "brovite dev",
+    "build": "brovite build",
+    "preview": "brovite preview"
+  }
+}
