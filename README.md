@@ -21,7 +21,7 @@ After that, the `brovite` command will be available in any project folder.
 ## Run the Demo
 
 ```bash
-git clone https://github.com/your-username/brovite-demo.git
+git clone https://github.com/ownerCamensi/brovite-demo.git
 cd brovite-demo
 brovite dev
 ```
@@ -105,4 +105,4 @@ brovite-demo/
 ## Links
 
 - npm package: https://www.npmjs.com/package/brovite
-- Source repository: https://github.com/your-username/brovite
+- Source repository: https://github.com/ownerCamensi/brovite-demo.git
